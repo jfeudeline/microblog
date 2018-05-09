@@ -1,0 +1,10 @@
+venv/
+*.pyc
+__pycache__
+app.db
+logs/
+pylintrc
+tests.py
+.config/
+.pylintrc
+.vscode
